@@ -1,5 +1,5 @@
 from logger import Logger
-from python import Python
+from python import Python, PythonObject
 
 
 struct ModernRobotics:
